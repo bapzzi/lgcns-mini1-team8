@@ -1,0 +1,22 @@
+# 값이 든 환경 파일 — 절대 올리지 않습니다
+.env
+.env.*
+!.env.example
+
+# 의존성
+node_modules/
+target/
+build/
+dist/
+__pycache__/
+*.class
+
+# 에디터·OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 로그
+*.log
+logs/
