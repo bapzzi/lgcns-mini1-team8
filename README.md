@@ -4,8 +4,8 @@
 
 할 일과 결정은 이 저장소가 아니라 Notion 허브에 있습니다. 여기에는 코드와 규격 문서만 둡니다.
 
-- **Notion 허브** — `[주소]`
-- **Figma** — `[주소]`
+- **Notion 허브** — https://app.notion.com/p/3da36a4d1716811388bcceb3401fef0c
+- **Figma** — https://www.figma.com/design/kmtHPVwE6jL83o9Ycl7TDI
 
 ## 무엇을 만드나
 
