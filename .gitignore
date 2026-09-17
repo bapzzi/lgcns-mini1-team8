@@ -4,6 +4,8 @@
 !.env.example
 
 # 의존성
+.gradle/
+out/
 node_modules/
 target/
 build/
